@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "library_curs", "library_curs\library_curs.ssmssqlproj", "{54FEA0D9-3A95-4C30-AD47-CF3FC1FF7E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FEA0D9-3A95-4C30-AD47-CF3FC1FF7E9B}.Default|Default.ActiveCfg = Default
+		{A1C6D0B4-8393-41C1-9C9A-1D5835596FFA}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0145C983-9652-4648-B129-6B0DC2E6650F}
+	EndGlobalSection
+EndGlobal
